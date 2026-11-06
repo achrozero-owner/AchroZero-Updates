@@ -1,7 +1,8 @@
+
 {
   "latestVersion": "3.0.0",
   "versionCode": 3,
   "minimumVersion": "1.0.0",
   "downloadUrl": "https://github.com/achrozero-owner/AchroZero-Updates/releases/download/v3.0.0/AchroZero-v3.apk",
-  "releaseNotes": "Added new app logo • Added compilation in Launch • Added Pointer Speed • Upgraded Thermal Configuration (If you get Extreme in the options, you're so lucky!)"
+  "releaseNotes": "Added new app logo • added compilation in launch • added pointer speed • upgraded thermal configuration (if you get extreme in the options, your so lucky)"
 }
