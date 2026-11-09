@@ -3,6 +3,6 @@
   "latestVersion": "4.0.0",
   "versionCode": 4,
   "minimumVersion": "1.0.0",
-  "downloadUrl": "https://github.com/achrozero-owner/AchroZero-Updates/releases/tag/v4.0.0/AchroZero-v4.apk",
+  "downloadUrl": "https://github.com/achrozero-owner/AchroZero-Updates/releases/download/v4.0.0/AchroZero-v4.apk",
   "releaseNotes": "Added banner gif • Added GPU workload module • Added clean ram module • Added floating window but currently unavailable because developer still working for it."
 }
